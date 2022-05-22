@@ -1,0 +1,5 @@
+module CAutoLayoutDSL {
+    requires objc_arc,cplusplus11
+    umbrella header "CAutoLayoutDSL.h"
+    export *
+}
